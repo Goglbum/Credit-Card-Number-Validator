@@ -7,9 +7,9 @@
 На тестирование затрачено: 0,5 ч.
 
 В результате тестирования выявлены следующие дефекты:
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
+* [bug1](https://github.com/Goglbum/Credit-Card-Number-Validator/issues/1#issue-681144785)
+* [bug2](https://github.com/Goglbum/Credit-Card-Number-Validator/issues/2#issue-681147799)
+* [bug3](https://github.com/Goglbum/Credit-Card-Number-Validator/issues/3#issue-681150671)
 
 ## Описание процесса тестирования
 
